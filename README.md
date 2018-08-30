@@ -1,4 +1,6 @@
-# jms-publisherConsumer
+# jms-Publish/Subscribe demo application
+* Spring Boot
+* Apache ActiveMQ
 
 ### JMS
 Java message service enables loosely coupled communication between two or more systems.
