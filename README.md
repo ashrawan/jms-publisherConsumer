@@ -22,6 +22,7 @@ Java message service enables loosely coupled communication between two or more s
 ```
 
 + ActiveMQConnectionFactory
++ DefaultJmsListenerContainerFactory
 + JmsTemplate
 + ActiveMQTopic
 + @JmsListener
