@@ -1,4 +1,4 @@
-# jms-Publish/Subscribe demo application
+# JMS-Publish/Subscribe Demo Application
 * Spring Boot
 * Apache ActiveMQ
 
