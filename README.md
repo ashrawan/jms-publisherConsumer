@@ -3,7 +3,7 @@
 * Apache ActiveMQ
 
 ### JMS
-Java message service enables loosely coupled communication between two or more systems.
+Java message service enables logically coupled communication between two or more systems.
 
 ##### JMS has several implementations..
 [Apache ActiveMQ](http://activemq.apache.org/activemq-5150-release.html)
